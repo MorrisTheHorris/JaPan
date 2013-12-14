@@ -1,2 +1,2 @@
-<h1>MSC Merit Sytem</h1>
+<h1>[REDACTED]</h1>
 			<h3>Login</h3>
